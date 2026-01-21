@@ -1,0 +1,9 @@
+[project]
+name = "sentiment-analysis-with-mlops"
+version = "0.1.0"
+description = "End to end MLOps Capstone Project"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "cookiecutter>=2.6.0",
+]
