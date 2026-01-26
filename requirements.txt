@@ -175,3 +175,5 @@ zc.lockfile
 zipp
 prometheus_client
 xgboost
+
+-e .
